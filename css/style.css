@@ -16,6 +16,7 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 color:black;
 background: white;
 background-clip: content-box;
+border: 1px solid #333;
 }
 .shadowbox {
   border: 1px solid #333;
