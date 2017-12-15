@@ -1,21 +1,22 @@
-head{
-background-image: url(https://vignette2.wikia.nocookie.net/steamtradingcards/images/5/5a/EXceed_-_Gun_Bullet_Children_Background_Lunatica_Malice.jpg/revision/latest?cb=20140813064637);
-background-size:cover;
-}
+html {
+background: url(img/background.jpg) no-repeat center fixed; 
+background-size: cover;
+} 
 body{
 text-align:center ;
 }
 h1, h2, h3, h4, h5, h6{
 font-size: 100px;
-font-family:Montserrat;
+font-family:Impact, Charcoal, sans-serif;
 }
 p,{
 font-size:24;
-font-family:PT Sans;
+font-family:"Comic Sans MS", cursive, sans-serif;
 }
 informacija{
 font-size:24;
-font-family:PT Sans;
-background-color:white;
+font-family:"Comic Sans MS", cursive, sans-serif;
 color:black;
+background: white;
+background-clip: content-box;
 }
