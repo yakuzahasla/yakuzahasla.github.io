@@ -1,8 +1,9 @@
-body{
+head{
 background-image: url(https://vignette2.wikia.nocookie.net/steamtradingcards/images/5/5a/EXceed_-_Gun_Bullet_Children_Background_Lunatica_Malice.jpg/revision/latest?cb=20140813064637);
 background-size:cover;
+}
+body{
 text-align:center ;
-color:white;
 }
 h1, h2, h3, h4, h5, h6{
 font-size: 100px;
