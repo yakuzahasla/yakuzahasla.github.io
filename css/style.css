@@ -21,8 +21,7 @@ background-clip: content-box;
   border: 1px solid #333;
   box-shadow: 8px 8px 5px #444;
   padding: 8px 12px;
-  background:white;
-  opacity:0.5;
+  background-color:rgba(255, 255, 255, 0.5);
 }
 .fadein {
 z-index: 1;
