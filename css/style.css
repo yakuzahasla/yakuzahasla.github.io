@@ -1,0 +1,20 @@
+body{
+background-image: url(https://vignette2.wikia.nocookie.net/steamtradingcards/images/5/5a/EXceed_-_Gun_Bullet_Children_Background_Lunatica_Malice.jpg/revision/latest?cb=20140813064637);
+background-size:cover;
+text-align:center ;
+color:white;
+}
+h1, h2, h3, h4, h5, h6{
+font-size: 100px;
+font-family:Montserrat;
+}
+p,{
+font-size:24;
+font-family:PT Sans;
+}
+informacija{
+font-size:24;
+font-family:PT Sans;
+background-color:white;
+color:black;
+}
