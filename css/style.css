@@ -14,9 +14,6 @@ font-family:"Comic Sans MS", cursive, sans-serif;
 font-size:24;
 font-family:"Comic Sans MS", cursive, sans-serif;
 color:black;
-background: white;
-background-clip: content-box;
-border: 1px solid #333;
 }
 .shadowbox {
   border: 1px solid #333;
@@ -26,4 +23,8 @@ border: 1px solid #333;
 }
 .fadein {
 z-index: 1;
+}
+.box {
+border:1px solid #333;
+background-color:white;
 }
