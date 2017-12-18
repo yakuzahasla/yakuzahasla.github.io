@@ -95,3 +95,7 @@ width:1300px;
 .width24{
   width:24px;
 }
+.hidden {
+visibility: hidden;
+display: none;
+}
