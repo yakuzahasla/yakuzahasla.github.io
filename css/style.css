@@ -38,6 +38,7 @@ z-index: 1;
 button {
     width: 100px;
     height: 30px;
+
 }
 .shadowbox {
   text-align: center;
@@ -45,4 +46,52 @@ button {
   box-shadow: 8px 8px 5px #444;
   padding: 8px 12px;
   background-color:rgba(255, 255, 255, 0.5);
+}
+.box{
+    text-align: center;
+  border: 1px solid #333;
+  padding: 8px 12px;
+  background-color:rgba(255, 255, 255, 0.5);
+}
+.boxwidth{
+   text-align: center;
+  border: 1px solid #333;
+  padding: 8px 12px;
+  background-color:rgba(255, 255, 255, 0.5);
+  width:1300px;
+  margin-left:10px;
+  margin-right:10px;
+}
+#wrapper {
+    min-width: 1300px;
+    border: 1px solid black;
+    overflow: hidden; /* will contain if #first is longer than #second */
+}
+#first {
+    width: 50%;
+    float:left; /* add this */
+}
+#second {
+    overflow: hidden; /* if you don't want #second to wrap below #first */
+}
+.marginai{
+margin-left: :10px;
+margin-right: 10px;
+}
+.marginaiplius{
+  margin-left: :10px;
+margin-right: 10px;
+width:1300px;
+}
+.white{
+  color:white
+}
+.img{
+  width:30%
+}
+.height400{
+  height:400px;
+}
+.width24{
+  width:24px;
 }
