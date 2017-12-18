@@ -1,6 +1,14 @@
-
+html{
+  height:100;
+  width:100;
+  box-sizing: border-box;
+}
 body{
-text-align:center ;
+position: relative;
+margin:0;
+padding-bottom:6reml
+min-height: 100%
+min-width: 100%
 }
 h1, h2, h3, h4, h5, h6{
 font-size: 100px;
@@ -10,20 +18,31 @@ p{
 font-size:24;
 font-family:"Comic Sans MS", cursive, sans-serif;
 }
+.basicdiv {
+    color: #90949c;
+    padding: 0 12px 2px;
+}
+.weight{
+font-weight:normal;
+
+}
 .informacija{
 font-size:24;
 font-family:"Comic Sans MS", cursive, sans-serif;
 color:black;
 }
+.fadein {
+z-index: 1;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+}
 .shadowbox {
+  text-align: center;
   border: 1px solid #333;
   box-shadow: 8px 8px 5px #444;
   padding: 8px 12px;
   background-color:rgba(255, 255, 255, 0.5);
-}
-.fadein {
-z-index: 1;
-}
-.box {
-background-color:white;
 }
